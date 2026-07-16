@@ -66,29 +66,14 @@ Users can load an image, apply multiple filters and transformations in real time
 
 ## 🎨 Basic Filters
 
-| Brightness | Contrast |
-|------------|----------|
-| <img src="screenshots/brightness.png" width="400"/> | <img src="screenshots/contrast.png" width="400"/> |
-
----
-
-| Blur | Sharpen |
-|------|----------|
-| <img src="screenshots/blur.png" width="400"/> | <img src="screenshots/sharpen.png" width="400"/> |
-
----
+| Brightness | Blur |
+| <img src="Images/Brightness.png" width="400"/> | <img src="Images/Blur.png" width="400"/>|
 
 ## 🌈 Color Effects
 
 | Negative | Sepia |
 |-----------|--------|
-| <img src="screenshots/negative.png" width="400"/> | <img src="screenshots/sepia.png" width="400"/> |
-
----
-
-| Threshold | Gamma |
-|------------|--------|
-| <img src="screenshots/threshold.png" width="400"/> | <img src="screenshots/gamma.png" width="400"/> |
+| <img src="Images/Negative.png" width="400"/> | <img src="Images/Sepia.png" width="400"/> |
 
 ---
 
@@ -96,13 +81,13 @@ Users can load an image, apply multiple filters and transformations in real time
 
 | Rotate | Flip |
 |---------|------|
-| <img src="screenshots/rotate.png" width="400"/> | <img src="screenshots/flip.png" width="400"/> |
+| <img src="Images/Rotate Left.png" width="400"/> | <img src="Images/Flip Horizontal.png" width="400"/> |
 
 ---
 
 ## 📏 Resize
 
-<img src="screenshots/resize.png" width="700"/>
+<img src="Images/Resize.png" width="700"/>
 
 ---
 
@@ -110,11 +95,7 @@ Users can load an image, apply multiple filters and transformations in real time
 
 ### Crop Selection
 
-<img src="screenshots/crop-selection.png" width="700"/>
-
-### Cropped Result
-
-<img src="screenshots/crop-result.png" width="700"/>
+<img src="Images/Crop.png" width="700"/>
 
 ---
 
@@ -142,9 +123,6 @@ Image-Processing-Toolkit/
 │   └── utils.py
 
 │── images/
-
-│── screenshots/
-
 │── app.py
 
 │── README.md
@@ -213,7 +191,7 @@ Some improvements that can be added in future versions:
 
 # 👨‍💻 Author
 
-## **Khushal Dak**
+## **Kumkum Lohiya**
 
 Aspiring **Data Analyst | Python Developer**
 
