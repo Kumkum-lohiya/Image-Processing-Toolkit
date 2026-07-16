@@ -60,7 +60,7 @@ Users can load an image, apply multiple filters and transformations in real time
 
 ## 🏠 Home Screen
 
-<img src="screenshots/home.png" width="850"/>
+<img src="Images/HomePage.png" width="850"/>
 
 ---
 
