@@ -65,8 +65,8 @@ Users can load an image, apply multiple filters and transformations in real time
 ---
 
 ## 🎨 Basic Filters
-
 | Brightness | Blur |
+|-----------|--------|
 | <img src="Images/Brightness.png" width="400"/> | <img src="Images/Blur.png" width="400"/>|
 
 ## 🌈 Color Effects
