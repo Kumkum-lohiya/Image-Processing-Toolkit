@@ -115,21 +115,27 @@ Users can load an image, apply multiple filters and transformations in real time
 
 ```text
 Image-Processing-Toolkit/
-
-│── src/
+│
+├── Images/
+│  
+├── src/
 │   ├── basic_filters.py
 │   ├── color_effects.py
 │   ├── transformations.py
 │   └── utils.py
-
-│── images/
-│── app.py
-
-│── README.md
-
-│── requirements.txt
-
-│── .gitignore
+│
+├── venv/
+│   ├── Include/
+│   ├── Lib/
+│   ├── Scripts/
+│   ├── share/
+│   ├── .gitignore
+│   └── pyvenv.cfg
+│
+├── app.py
+├── requirements.txt
+└── README.md
+```
 ```
 
 ---
