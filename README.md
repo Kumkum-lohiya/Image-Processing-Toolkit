@@ -201,8 +201,8 @@ Some improvements that can be added in future versions:
 
 Aspiring **Data Analyst | Python Developer**
 
-- 🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
+- 🔗 GitHub: https://github.com/kumkum-lohiya/
+- 💼 LinkedIn:https://www.linkedin.com/in/kumkum-lohiya/
 
 ---
 
