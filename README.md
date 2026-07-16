@@ -4,7 +4,7 @@
 
 ### A Modern Desktop GUI Application for Image Processing using Python
 
-<img src="screenshots/home.png" alt="Home Screen" width="900"/>
+<img src="Images/HomePage.png" alt="Home Screen" width="900"/>
 
 <p align="center">
 
